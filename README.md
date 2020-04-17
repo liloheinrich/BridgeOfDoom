@@ -1,4 +1,4 @@
-# BridgeOfDoom
+# Bridge Of Doom
 Autonomous parametric path following program  
 Quantitative Engineering Analysis, Spring 2020  
 
