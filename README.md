@@ -1,6 +1,6 @@
 # Bridge Of Doom
 Autonomous parametric path following program  
-Quantitative Engineering Analysis, Spring 2020  
+Quantitative Engineering Analysis 1, Spring 2020  
 
 See **[paper](QEA_Robo.pdf)** for more details  
 
